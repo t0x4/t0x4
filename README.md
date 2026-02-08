@@ -1,4 +1,4 @@
-# Hi there, I'm [toxa](https://t.me/t0x_aa)
+# Hi there, I'm toxa
 ### Offensive Security Enthusiast | CTF Player | Junior Pentester
 # 🚀 About Me
 
@@ -59,21 +59,19 @@ I focus heavily on manual analysis rather than blind automation — tools are us
 
 # 📚 Learning Philosophy
 
-I believe strong security skills come from:
+I believe strong security skills come from:  
+Deep understanding of attack surfaces  
+Hands-on practice oer theory  
+Breaking things in controlled environments  
+Learning from mistakes and failed exploits  
+CTFs are not just competitions for me — they are a training ground for real-world security thinking.  
 
-Deep understanding of attack surfaces
-
-Hands-on practice over theory
-
-Breaking things in controlled environments
-
-Learning from mistakes and failed exploits
-
-CTFs are not just competitions for me — they are a training ground for real-world security thinking.
+---
 
 # 🔗 Connect With Me
+  [Telegram](https://t.me/t0x_aa)  
+  [CyberQupiya](https://cyberqupiya.kz/users/t0xa?lang=ru)
 
-Telegram: @t0x4
 
 ### 🧪 Training Platforms
 <p align="left">
@@ -83,7 +81,7 @@ Telegram: @t0x4
   </a>
     <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="40"/>
   </a>
-
+  <img src="https://standoff365.com/favicons/icon.svg" width="40"/>
   <img src="https://cyberqupiya.kz/static/images/favicon.ico" width="40"/>
   </a>
 </p>
