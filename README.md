@@ -39,30 +39,18 @@ Understanding phishing techniques and trust exploitation
 
 Learning how psychological manipulation can bypass technical controls
 
-# 🧰 Tools & Techniques
-
-Security Tools I Actively Use:
-
-Burp Suite (manual testing, logic bugs, bypasses)
-
-Nmap (reconnaissance & service discovery)
-
-Metasploit (post-exploitation & testing)
-
-Wireshark (traffic analysis)
-
-SQLMap (validation & learning automation limits)
-
-Netcat (pivoting, shells, testing)
-
 I focus heavily on manual analysis rather than blind automation — tools are used to assist thinking, not replace it.
 
 # 📚 Learning Philosophy
 
 I believe strong security skills come from:  
+
 Deep understanding of attack surfaces  
+
 Hands-on practice oer theory  
+
 Breaking things in controlled environments  
+
 Learning from mistakes and failed exploits  
 CTFs are not just competitions for me — they are a training ground for real-world security thinking.  
 
