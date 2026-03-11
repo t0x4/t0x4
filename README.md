@@ -2,7 +2,7 @@
 ### Offensive Security Enthusiast | CTF Player | Junior Pentester
 # 🚀 About Me
 
-I'm from KZ, a cybersecurity enthusiast deeply focused on Information Security, especially the offensive side.
+I'm from KZ 🇰🇿, a cybersecurity enthusiast deeply focused on Information Security, especially the offensive side.
 Most of my time is dedicated to `CTF` challenges, vulnerability research, and hands-on practice in real-world–like lab environments.
 
 ---
